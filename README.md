@@ -1,10 +1,4 @@
-# curso-practico-javascript
+# Curso práctico de JavaScript
 
-...
-
-## Taller #1 figuras geométricas
-
-- Primero paso: definir fórmulas
-- Segundo paso: implementar las formulas en JavaScrips
-- Tercer paso: crear funciones
-- Cuarto paso: integrar JavaScript con HTML
+- Modulo 1: Figuras Geometricas.
+- Modulo 2: porcentajes y descuentos.
